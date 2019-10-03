@@ -81,7 +81,7 @@
         }
             else
               {
-                $error= "Only numbers";
+                $error= "You can only use numbers";
                 echo $error;
             }
         }

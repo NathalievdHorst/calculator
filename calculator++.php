@@ -13,7 +13,7 @@
         <?php
         $km = 0;
         $num1 = 0;
-        $num2 = 0;
+        $num2 = 0;  
         $total = 0;
         $option ="";
         $error = "";
